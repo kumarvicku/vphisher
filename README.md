@@ -9,10 +9,10 @@
 <h1 align="center"><i>vphisher</i></h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-black?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/kumarvicku/vphisher?style=for-the-badge&color=blue">
-  <img src="https://img.shields.io/github/forks/kumarvicku/vphisher?color=cyan&style=for-the-badge&color=lightgreen">
-  <img src="https://img.shields.io/github/issues/kumarvicku/vphisher?color=brown&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/kumarvicku/vphisher?style=for-the-badge&color=red">   
+  <img src="https://img.shields.io/github/stars/kumarvicku/vphisher?style=for-the-badge&color=darkblue">
+  <img src="https://img.shields.io/github/forks/kumarvicku/vphisher?color=brown&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/kumarvicku/vphisher?color=darkgreen&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/kumarvicku/vphisher?style=for-the-badge&color=darkred">   
 <br>
 <br>
   <img src="https://img.shields.io/badge/Author-Kumarvicku-blue?style=flat-rectangle">
@@ -85,7 +85,7 @@ If not found, all of the required packages will be installed on first run
 
 ## Find Me on :
 <p align="left">
-  <a href="https://github.com/kumarvicku"_blank"><img src="https://img.shields.io/badge/Github-kumarvicku-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/v_for_vicku/" target="_blank"><img src="https://img.shields.io/badge/IG-%40v_for_vicku-red?style=for-the-badge&logo=instagram"></a>
-  <a href="https://www.facebook.com/profile.php?id=100055525980457" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=facebook"></a>
+  <a href="https://github.com/kumarvicku"_blank"><img src="https://img.shields.io/badge/Github-kumarvicku-darkblue?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/v_for_vicku/" target="_blank"><img src="https://img.shields.io/badge/IG-%40v_for_vicku-darkblue?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.facebook.com/profile.php?id=100055525980457" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-darkblue?style=for-the-badge&logo=facebook"></a>
 </p>
