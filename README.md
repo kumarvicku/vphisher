@@ -7,7 +7,7 @@
 
 ![vphisher](https://user-images.githubusercontent.com/84949946/149452645-f9e0e8ed-eb18-486b-be18-f8ff9b3e0bea.PNG)
 
-<h1 align="center"><i>vphisher</i></h1>
+<h1 align="center">🆅🅿🅷🅸🆂🅷🅴🆁</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-black?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/kumarvicku/vphisher?style=for-the-badge&color=darkblue">
@@ -21,18 +21,18 @@
   <img src="https://img.shields.io/badge/Written%20In-Python-darkgreen?style=flat-rectangle">
 </p>
 
-### [+] Description :
+### [+] 𝕯𝖊𝖘𝖈𝖗𝖎𝖕𝖙𝖎𝖔𝖓 :
 <i><b>Ultimate phishing tool ,A beginners friendly, Automated phishing tool in python. Includes popular websites like facebook, twitter, instagram, github, reddit, gmail and many others with 70+ templates.</i></b>
 
-<h1><p align="center">Disclaimer</p></h1>
+<h1><p align="center">𝕯𝖎𝖘𝖈𝖑𝖆𝖎𝖒𝖊𝖗</p></h1>
 
-<i><b>Any actions and or activities related to vphisher is solely your responsibility. The misuse of this toolkit can result in criminal charges brought against the persons in question. The contributors will not be held responsible in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+<i><b>Any actions and or activities related to 𝐯𝐩𝐡𝐢𝐬𝐡𝐞𝐫 is solely your responsibility. The misuse of this toolkit can result in 𝖈𝖗𝖎𝖒𝖎𝖓𝖆𝖑 charges brought against the persons in question. The contributors will not be held responsible in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
 This toolkit contains materials that can be potentially damaging or dangerous for social media. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
 
-This Tool is made for educational purposes only. Do not attempt to violate the law with anything contained here.If this is your intention, then fuck yourself!
+𝐓𝐡𝐢𝐬 𝐓𝐨𝐨𝐥 𝐢𝐬 𝐦𝐚𝐝𝐞 𝐟𝐨𝐫 𝐞𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐩𝐮𝐫𝐩𝐨𝐬𝐞𝐬 𝐨𝐧𝐥𝐲. Do not attempt to violate the law with anything contained here.𝗜𝗳 𝘁𝗵𝗶𝘀 𝗶𝘀 𝘆𝗼𝘂𝗿 𝗶𝗻𝘁𝗲𝗻𝘁𝗶𝗼𝗻, 𝘁𝗵𝗲𝗻 𝗳𝘂𝗰𝗸 𝘆𝗼𝘂𝗿𝘀𝗲𝗹𝗳!
 
-  It only demonstrates "how phishing works". You shall not misuse the information to gain unauthorized access to someones social media. However you may try out this at your own risk.</i></b>
+  It only demonstrates "🅷🅾🆆 🅿🅷🅸🆂🅷🅸🅽🅶 🆆🅾🆁🅺🆂". You shall not misuse the information to gain unauthorized access to someones social media. However you may try out this at your own risk.</i></b>
 
 ##
 
