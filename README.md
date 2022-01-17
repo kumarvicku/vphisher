@@ -32,7 +32,7 @@ This toolkit contains materials that can be potentially damaging or dangerous fo
 
 𝐓𝐡𝐢𝐬 𝐓𝐨𝐨𝐥 𝐢𝐬 𝐦𝐚𝐝𝐞 𝐟𝐨𝐫 𝐞𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐩𝐮𝐫𝐩𝐨𝐬𝐞𝐬 𝐨𝐧𝐥𝐲. Do not attempt to violate the law with anything contained here.𝗜𝗳 𝘁𝗵𝗶𝘀 𝗶𝘀 𝘆𝗼𝘂𝗿 𝗶𝗻𝘁𝗲𝗻𝘁𝗶𝗼𝗻, 𝘁𝗵𝗲𝗻 𝗳𝘂𝗰𝗸 𝘆𝗼𝘂𝗿𝘀𝗲𝗹𝗳!
 
-  It only demonstrates "🅷🅾🆆 🅿🅷🅸🆂🅷🅸🅽🅶 🆆🅾🆁🅺🆂". You shall not misuse the information to gain unauthorized access to someones social media. However you may try out this at your own risk.</i></b>
+  It only demonstrates "нσω ρнιѕнιηg ωσякѕ". You shall not misuse the information to gain unauthorized access to someones social media. However you may try out this at your own risk.</i></b>
 
 ##
 
