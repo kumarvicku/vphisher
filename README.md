@@ -51,14 +51,13 @@ This Tool is made for educational purposes only. Do not attempt to violate the l
 
  - ```git clone https://github.com/kumarvicku/vphisher```
 ##### Enter the directory
- - ```cd vphisher```
+ - ``` ```
 
 ##### Run the tool
- - ```python3 vphisher.py```
+ - ``` ```
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/kumarvicku/vphisher/main/vphisher.py && python3 vphisher.py
 
 ```
 
