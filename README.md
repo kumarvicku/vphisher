@@ -8,31 +8,30 @@
 
 <h1 align="center"><i>vphisher</i></h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0-sky?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/kumarvicku/vphisher?style=for-the-badge&color=sky">
-  <img src="https://img.shields.io/github/forks/kumarvicku/vphisher?color=cyan&style=for-the-badge&color=sky">
-  <img src="https://img.shields.io/github/issues/kumarvicku/vphisher?color=sky&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/kumarvicku/vphisher?style=for-the-badge&color=sky">   
+  <img src="https://img.shields.io/badge/Version-1.0-black?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/kumarvicku/vphisher?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/forks/kumarvicku/vphisher?color=cyan&style=for-the-badge&color=lightgreen">
+  <img src="https://img.shields.io/github/issues/kumarvicku/vphisher?color=brown&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/kumarvicku/vphisher?style=for-the-badge&color=red">   
 <br>
 <br>
-  <img src="https://img.shields.io/badge/Author-Kumarvicku-sky?style=flat-rectangle">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-sky?style=flat-rectangle">
-  <img src="https://img.shields.io/badge/Written%20In-Python-sky?style=flat-rectangle">
+  <img src="https://img.shields.io/badge/Author-Kumarvicku-blue?style=flat-rectangle">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-black?style=flat-rectangle">
+  <img src="https://img.shields.io/badge/Written%20In-Python-darkgreen?style=flat-rectangle">
 </p>
 
 ### [+] Description :
-Ultimate phishing tool ,A beginners friendly, Automated phishing tool in python. Includes popular websites like facebook, twitter, instagram, github, reddit, gmail and many others
-with 70+ templates.
+<i><b>Ultimate phishing tool ,A beginners friendly, Automated phishing tool in python. Includes popular websites like facebook, twitter, instagram, github, reddit, gmail and many others with 70+ templates.</i></b>
 
-<h3><p align="center">Disclaimer</p></h3>
+<h1><p align="center">Disclaimer</p></h1>
 
-<i>Any actions and or activities related to <b>vphisher</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+<i><b>Any actions and or activities related to vphisher is solely your responsibility. The misuse of this toolkit can result in criminal charges brought against the persons in question. The contributors will not be held responsible in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
-<b>This toolkit contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
+This toolkit contains materials that can be potentially damaging or dangerous for social media. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
 
-<b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here. <b>If this is your intention, then Get the hell out of here</b>!
+This Tool is made for educational purposes only. Do not attempt to violate the law with anything contained here.If this is your intention, then fuck yourself!
 
-It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
+  It only demonstrates "how phishing works". You shall not misuse the information to gain unauthorized access to someones social media. However you may try out this at your own risk.</i></b>
 
 ##
 
