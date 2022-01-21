@@ -21,6 +21,10 @@
   <img src="https://img.shields.io/badge/Written%20In-Python-darkgreen?style=flat-rectangle">
 </p>
 
+### [+] in BETA
+
+This is still in BETA so you may see problems, please open an issue on GitHub and report them!
+
 ### [+] 𝕯𝖊𝖘𝖈𝖗𝖎𝖕𝖙𝖎𝖔𝖓 :
 <i><b>Ultimate phishing tool ,A beginners friendly, Automated phishing tool in python. Includes popular websites like facebook, twitter, instagram, github, reddit, gmail and many others with 70+ templates.</i></b>
 
@@ -40,25 +44,39 @@ This toolkit contains materials that can be potentially damaging or dangerous fo
 
 ##### Install primary dependencies (git and python)
 - For Termux
-    - ```pkg install git python -y```
+    ```bash
+    pkg install git python -y
+    ```
 - For Debian
-    - ```sudo apt install git python -y``` 
+    ```bash
+    sudo apt install git python -y
+    ``` 
 - For Fedora
-    - ```sudo yum install git python -y```
+    ```bash
+    sudo yum install git python -y
+    ```
  - For Arch
-    - ```sudo pacman -S git python --noconfirm```
+    ```bash
+    sudo pacman -S git python --noconfirm
+    ```
 
 ##### Clone this repository
 
- - ```git clone https://github.com/kumarvicku/vphisher```
+ ```bash
+ git clone https://github.com/kumarvicku/vphisher
+ ```
 ##### Enter the directory
- - ```cd vphisher```
+ ```bash
+ cd vphisher
+ ```
 
 ##### Run the tool
- - ```python3 pyphisher.py```
+ ```bash
+ python3 pyphisher.py
+ ```
 
 #### Or, directly run
-```
+```bash
 wget https://raw.githubusercontent.com/kumarvicku/vphisher/main/vphisher.py && python3 vphisher.py
 ```
 
