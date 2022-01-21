@@ -39,27 +39,27 @@ This toolkit contains materials that can be potentially damaging or dangerous fo
 ### [+] Installation
 
 ##### Install primary dependencies (git and python)
+- For Termux
+    - ```pkg install git python -y```
 - For Debian
-    
+    - ```sudo apt install git python -y``` 
+- For Fedora
+    - ```sudo yum install git python -y```
  - For Arch
-    
- - For Fedora
-    
- - For Termux
-    
+    - ```sudo pacman -S git python --noconfirm```
 
 ##### Clone this repository
 
  - ```git clone https://github.com/kumarvicku/vphisher```
 ##### Enter the directory
- - ``` ```
+ - ```cd vphisher```
 
 ##### Run the tool
- - ``` ```
+ - ```python3 pyphisher.py```
 
 #### Or, directly run
 ```
-
+wget https://raw.githubusercontent.com/kumarvicku/vphisher/main/vphisher.py && python3 vphisher.py
 ```
 
 ### Features:
@@ -82,6 +82,14 @@ If not found, all of the required packages will be installed on first run
 3. Wait sometimes for setting up all
 4. Send the generated link to victim
 5. Wait for victim login. As soon as he/she logs in, credentials will be captured
+
+
+## [+] Disclaimer
+***This tool is developed for educational purposes only. Here it display how phishing works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of vphisher!***
+
+### This repository is open source to help others. So if you wish to copy, consider giving credit!
+
+####  If this tool helped you, consider staring repository. Your stars encourage me a lot!
 
 
 ## Find Me on :
